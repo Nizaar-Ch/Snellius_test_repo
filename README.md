@@ -1,1 +1,1 @@
-# This is the readme test file for snellius by Nizaar Amri 15778118
+# This is my snellius folder Nizaar Amri 15778118
